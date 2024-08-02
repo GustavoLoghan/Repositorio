@@ -2,7 +2,7 @@
 
 ## Eu me chamo Gustavo Loghan. 
 
-### Sou estudante de análise e desenvolvimento de sistemas no Senai. 
+### Sou estudante de análise e desenvolvimento de sistemas no SENAI. 
 
 #### Experiencia 
 
@@ -15,6 +15,8 @@
 ###### - 🐍 Fiz curso básico de Python; 
 
 ###### - 🔤 Inglês intermediário.
+
+###### - 👨‍💻 Aprendizado básico em JavaScript
 
 #### Hobbies 
 
@@ -30,8 +32,8 @@
 
 ###### - 🧾 Certificado de Conclusão de curso de Python no site da CISCO ;
 
-###### - 📃 Certificado de Conclusão de curso de LGPD (Lei Geral de Proteção de Dados);
+###### - 📃 Certificado de Conclusão de curso de LGPD (Lei Geral de Proteção de Dados) no portal SENAI;
 
 ###### - 📑 Olímpiadas escolares (Matemática e Ciência); 
 
-###### - 📄 Proerd.
+###### - 📄 PROERD.
