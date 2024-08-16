@@ -6,7 +6,7 @@
 
 #### Experiencia 
 
-###### - 👨‍💻 Já fiz sites simples em html; 
+###### - 👨‍💻 Já fiz sites em html; 
 
 ###### - 🔌 Já fiz o cabeamento de uma sala como atividade escolar; 
 
@@ -14,9 +14,23 @@
 
 ###### - 🐍 Fiz curso básico de Python; 
 
-###### - 🔤 Inglês intermediário.
+###### - 🔤 Inglês intermediário;
 
-###### - 👨‍💻 Aprendizado básico em JavaScript
+###### - 👨‍💻 Aprendizado básico em JavaScript;
+
+###### - 🎴 Já fiz prototipos de wireframe de sites no Figma;
+
+###### - 🏅 Já estilizei sites criados por mim com o básico de CSS.
+
+#### Habilidades Pessoais
+
+###### - 🤔 Criativo;
+
+###### - 🕵️‍♂️ Detalhista;
+
+###### - ❗ Organizado;
+
+###### - 👨‍👨‍👦‍👦 Desempenho alto quando trabalho em equipe.
 
 #### Hobbies 
 
